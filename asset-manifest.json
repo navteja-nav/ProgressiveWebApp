@@ -1,7 +1,26 @@
 {
-  "main.css": "static/css/main.d6d3313a.css",
-  "main.css.map": "static/css/main.d6d3313a.css.map",
-  "main.js": "static/js/main.02d9fd83.js",
-  "main.js.map": "static/js/main.02d9fd83.js.map",
-  "static/media/SEGA.woff": "static/media/SEGA.12a3db8b.woff"
+  "files": {
+    "main.css": "/ProgressiveWebApp/static/css/main.7f2aad3b.chunk.css",
+    "main.js": "/ProgressiveWebApp/static/js/main.b7c4e827.chunk.js",
+    "main.js.map": "/ProgressiveWebApp/static/js/main.b7c4e827.chunk.js.map",
+    "runtime-main.js": "/ProgressiveWebApp/static/js/runtime-main.ead50b7b.js",
+    "runtime-main.js.map": "/ProgressiveWebApp/static/js/runtime-main.ead50b7b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/ProgressiveWebApp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.277841f7.chunk.js": "/ProgressiveWebApp/static/js/2.277841f7.chunk.js",
+    "static/js/2.277841f7.chunk.js.map": "/ProgressiveWebApp/static/js/2.277841f7.chunk.js.map",
+    "index.html": "/ProgressiveWebApp/index.html",
+    "precache-manifest.8b2fb05cfc17de8957e509790b1c1317.js": "/ProgressiveWebApp/precache-manifest.8b2fb05cfc17de8957e509790b1c1317.js",
+    "service-worker.js": "/ProgressiveWebApp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/ProgressiveWebApp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7f2aad3b.chunk.css.map": "/ProgressiveWebApp/static/css/main.7f2aad3b.chunk.css.map",
+    "static/js/2.277841f7.chunk.js.LICENSE.txt": "/ProgressiveWebApp/static/js/2.277841f7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ProgressiveWebApp/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ead50b7b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.277841f7.chunk.js",
+    "static/css/main.7f2aad3b.chunk.css",
+    "static/js/main.b7c4e827.chunk.js"
+  ]
 }
